@@ -1,10 +1,1 @@
-<<<<<<< HEAD
-ss
-ss
-ss
-=======
 aaa
-
-
-aaaaaaaaaaaa
->>>>>>> 5bbdc368af43f9167ecca775b8551abc2f041f48
